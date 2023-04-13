@@ -4,9 +4,9 @@ from twilio.rest import Client
 from twilio.http.http_client import TwilioHttpClient
 
 OWM_ENDPOINT = "https://api.openweathermap.org/data/2.5/onecall"
-API_KEY = "69f04e4613056b159c2761a9d9e664d2"
-account_sid = "AC9aa713482e1b7eadf14ba02b194d638d"
-auth_token = "61b73f47c853617ed832a8f3b96f7607"
+API_KEY = "Your Account Api Key"
+account_sid = "Your Account sid"
+auth_token = "Your Account Token"
 parameters = {
     "lat": 12.9767936,
     "lon": 77.590082,
